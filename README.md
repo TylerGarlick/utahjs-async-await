@@ -1,11 +1,6 @@
-# Node Boilerplate
+# UtahJS - There and back again using async/await pattern
 
-> Set up a node project with various tools installed.
+> Using async/await pattern in your applications
 
-## Usage
+## Introduction
 
-```bash
-git clone https://github.com/TylerGarlick/node-es7-boilerplate.git [name-of-project]
-```
-
-Change the remote origins in git to push your changes to your own repositories.
